@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    # "path to the rust project",
+]
+
